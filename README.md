@@ -15,7 +15,7 @@ To identify performance patterns, track key metrics, and uncover growth opportun
 - **DAX (Data Analysis Expressions)**
 
 ## 🖼️ Dashboard Preview
-![Ecommerce_Sales_L](https://github.com/leenad007/E-Commerce_Sales_Analysis_PowerBI/blob/main/Ecommerce_Sales_L.pbix)
+![Ecommerce_Sales_L](https://github.com/leenad007/E-Commerce_Sales_Analysis_PowerBI/blob/main/Dashboard_Preview.png)
 
 ## 📌 Key Dashboard Components
 - **KPIs**: Total Sales, Total Profit, Total Quantity Sold, Profit Margin %
